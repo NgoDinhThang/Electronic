@@ -1,0 +1,125 @@
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BTL_Winform.exe.config
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BTL_Winform.exe
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BTL_Winform.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BUS.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\DTO.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\DAL.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BUS.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\DTO.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\DAL.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.ChiSoDien_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.HoaDon_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.ThietBi_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.ThongKe_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.HoTieuThu_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.TrangChu_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.SignIn_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.Properties.Resources.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.Thang_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.GenerateResource.cache
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.CoreCompileInputs.cache
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.CopyComplete
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.exe
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.AssemblyReference.cache
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BTL_Winform.exe.config
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BTL_Winform.exe
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BTL_Winform.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BUS.dll
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\DTO.dll
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\DAL.dll
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BUS.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\DTO.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\DAL.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.AssemblyReference.cache
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.ChiSoDien_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.HoaDon_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.ThietBi_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.ThongKe_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.HoTieuThu_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.TrangChu_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.SignIn_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.Properties.Resources.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.Thang_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.GenerateResource.cache
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.CoreCompileInputs.cache
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.CopyComplete
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.exe
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BTL_Winform.exe.config
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BTL_Winform.exe
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BTL_Winform.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BUS.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\DTO.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\DAL.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\BUS.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\DTO.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\bin\Debug\DAL.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.AssemblyReference.cache
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.ChiSoDien_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.HoaDon_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.ThietBi_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.ThongKe_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.HoTieuThu_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.TrangChu_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.SignIn_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.Properties.Resources.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.Thang_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.GenerateResource.cache
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.CoreCompileInputs.cache
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.CopyComplete
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.exe
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\BTL_Winform\obj\Debug\BTL_Winform.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\BTL_Winform.exe.config
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\BTL_Winform.exe
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\BTL_Winform.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\BUS.dll
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\DTO.dll
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\DAL.dll
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\BUS.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\DTO.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\DAL.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.AssemblyReference.cache
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.ChiSoDien_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.HoaDon_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.ThietBi_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.ThongKe_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.HoTieuThu_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.TrangChu_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.SignIn_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.Properties.Resources.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.Thang_GUI.resources
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.GenerateResource.cache
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.CoreCompileInputs.cache
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.CopyComplete
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.exe
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.Admin.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\BTL_Winform.exe.config
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\BTL_Winform.exe
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\BTL_Winform.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\BouncyCastle.Crypto.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\BUS.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\DTO.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\itextsharp.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\DAL.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\BUS.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\DTO.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\itextsharp.xml
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\bin\Debug\DAL.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.AssemblyReference.cache
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.Admin.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.ChiSoDien_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.HoaDon_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.ThietBi_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.ThongKe_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.HoTieuThu_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.TrangChu_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.SignIn_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.Properties.Resources.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.Thang_GUI.resources
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.GenerateResource.cache
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.CoreCompileInputs.cache
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Nhom23_GUI.csproj.CopyComplete
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.exe
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\BTL_Winform\obj\Debug\BTL_Winform.pdb

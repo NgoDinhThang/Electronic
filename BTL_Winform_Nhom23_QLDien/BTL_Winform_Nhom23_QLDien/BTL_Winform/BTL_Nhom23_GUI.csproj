@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{113FB6DC-F3B6-424A-B678-CAC3C7271374}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BTL_Winform</RootNamespace>
+    <AssemblyName>BTL_Winform</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.6.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChiSoDien_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChiSoDien_GUI.Designer.cs">
+      <DependentUpon>ChiSoDien_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDon_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoaDon_GUI.Designer.cs">
+      <DependentUpon>HoaDon_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThietBi_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThietBi_GUI.Designer.cs">
+      <DependentUpon>ThietBi_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongKe_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongKe_GUI.Designer.cs">
+      <DependentUpon>ThongKe_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoTieuThu_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoTieuThu_GUI.Designer.cs">
+      <DependentUpon>HoTieuThu_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrangChu_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrangChu_GUI.Designer.cs">
+      <DependentUpon>TrangChu_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignIn_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignIn_GUI.Designer.cs">
+      <DependentUpon>SignIn_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Thang_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thang_GUI.Designer.cs">
+      <DependentUpon>Thang_GUI.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChiSoDien_GUI.resx">
+      <DependentUpon>ChiSoDien_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoaDon_GUI.resx">
+      <DependentUpon>HoaDon_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThietBi_GUI.resx">
+      <DependentUpon>ThietBi_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongKe_GUI.resx">
+      <DependentUpon>ThongKe_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoTieuThu_GUI.resx">
+      <DependentUpon>HoTieuThu_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrangChu_GUI.resx">
+      <DependentUpon>TrangChu_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignIn_GUI.resx">
+      <DependentUpon>SignIn_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Thang_GUI.resx">
+      <DependentUpon>Thang_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EVN.jpg" />
+    <None Include="Resources\EVN_icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Statistics.ico" />
+    <None Include="Resources\Numbered list.ico" />
+    <None Include="Resources\update.bmp" />
+    <None Include="Resources\update.jpg" />
+    <None Include="Resources\Users.png" />
+    <None Include="Resources\User.png" />
+    <None Include="Resources\Unlock.png" />
+    <None Include="Resources\Unknown person.png" />
+    <None Include="Resources\Trash.png" />
+    <None Include="Resources\Tick.png" />
+    <None Include="Resources\thoat.png" />
+    <None Include="Resources\Telephone.png" />
+    <None Include="Resources\Task list.png" />
+    <None Include="Resources\Stop.png" />
+    <None Include="Resources\Statistics.png" />
+    <None Include="Resources\security.png" />
+    <None Include="Resources\Secure.png" />
+    <None Include="Resources\Search.png" />
+    <None Include="Resources\Save.png" />
+    <None Include="Resources\Save as.png" />
+    <None Include="Resources\refresh_1.png" />
+    <None Include="Resources\Refresh.png" />
+    <None Include="Resources\Print preview.png" />
+    <None Include="Resources\Price list.png" />
+    <None Include="Resources\Open lock.png" />
+    <None Include="Resources\Open letter.png" />
+    <None Include="Resources\Open folder.png" />
+    <None Include="Resources\Open file.png" />
+    <None Include="Resources\Open door.png" />
+    <None Include="Resources\Numbered list.png" />
+    <None Include="Resources\Notes.png" />
+    <None Include="Resources\EVN %281%29.jpg" />
+    <None Include="Resources\background.jpg" />
+    <None Include="Resources\Bar chart.png" />
+    <None Include="Resources\baseline_delete_forever_black_24dp.png" />
+    <None Include="Resources\Best.png" />
+    <None Include="Resources\Calendar.png" />
+    <None Include="Resources\Call.png" />
+    <None Include="Resources\Closed door.png" />
+    <None Include="Resources\Closed folder.png" />
+    <None Include="Resources\Create.png" />
+    <None Include="Resources\Date.png" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\Documents.png" />
+    <None Include="Resources\Edit.png" />
+    <None Include="Resources\edit_1.png" />
+    <None Include="Resources\evn-icon.jpg" />
+    <None Include="Resources\Accept.png" />
+    <None Include="Resources\Add to basket.png" />
+    <None Include="Resources\Add.png" />
+    <None Include="Resources\Address book.png" />
+    <None Include="Resources\Alarm.png" />
+    <None Include="Resources\anhnen1.PNG" />
+    <Content Include="Resources\EVN_icon.ico" />
+    <None Include="Resources\Image1.bmp" />
+    <None Include="Resources\Exit.png" />
+    <None Include="Resources\Favourites.png" />
+    <None Include="Resources\fpt.ico" />
+    <None Include="Resources\fpt.png" />
+    <None Include="Resources\Help.png" />
+    <None Include="Resources\Home.png" />
+    <None Include="Resources\List.png" />
+    <None Include="Resources\Lock.png" />
+    <None Include="Resources\Log out.png" />
+    <None Include="Resources\login.jpg" />
+    <None Include="Resources\login1.png" />
+    <None Include="Resources\login2.jpg" />
+    <None Include="Resources\logoEVN_HoaDon.PNG" />
+    <None Include="Resources\Home.ico" />
+    <Content Include="Resources\LogOut.jpg" />
+    <None Include="Resources\Mail.png" />
+    <Content Include="Resources\MLD _.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{c217ad11-c59f-4f10-b69f-97ba54cf960f}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{7a339a9b-8090-44f2-a363-8bb30989102d}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,48 @@
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\bin\Debug\DAL.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\bin\Debug\DAL.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\bin\Debug\DTO.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\bin\Debug\DTO.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\bin\Debug\DAL.dll
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\bin\Debug\DAL.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\bin\Debug\DTO.dll
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\bin\Debug\DTO.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.dll
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\bin\Debug\DAL.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\bin\Debug\DAL.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\bin\Debug\DTO.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\bin\Debug\DTO.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom232\BTL_Winform_Nhom23\BTL_Winform\BTL_Winform\DAL\obj\Debug\DAL.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\DAL\bin\Debug\DAL.dll
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\DAL\bin\Debug\DAL.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\DAL\bin\Debug\DTO.dll
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\DAL\bin\Debug\DTO.pdb
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\DAL\obj\Debug\DAL.dll
+C:\Users\hiii\Downloads\BTL_Winform_Nhom23_QLDien\DAL\obj\Debug\DAL.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\DAL\bin\Debug\DAL.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\DAL\bin\Debug\DAL.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\DAL\bin\Debug\BouncyCastle.Crypto.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\DAL\bin\Debug\DTO.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\DAL\bin\Debug\itextsharp.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\DAL\bin\Debug\DTO.pdb
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\DAL\bin\Debug\itextsharp.xml
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\DAL\obj\Debug\DAL.dll
+E:\C#\bài tập lớn\BTL_Winform_Nhom23_QLDien_thang2\BTL_Winform_Nhom23_QLDien\DAL\obj\Debug\DAL.pdb
